@@ -11,3 +11,5 @@ Testing
 ## git reset --hard<commit>
 ## git reset --hard origin/master the current github state before last push
 ## git checkout -b feature to create new branch and swith branches
+
+## github pages username.github.io or manualy turn on github pages 
