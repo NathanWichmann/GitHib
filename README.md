@@ -9,5 +9,5 @@ Testing
 
 ## git log
 ## git reset --hard<commit>
-## git set   --hard origin/master the current github state before last push
+## git reset --hard origin/master the current github state before last push
 ## git checkout -b feature to create new branch and swith branches
